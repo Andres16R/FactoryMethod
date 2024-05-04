@@ -1,0 +1,16 @@
+
+
+java:S11921"GDefine a constant instead of duplicating this literal "GRUESA" 3 times.(ëë·ÿÿÿÿÿ8µÆç¬ô1J$49a92f04-b951-4dc9-98e7-5395e5f80df3
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á–Ì“8Àñá¬ô1J$0f62b3ae-3b9c-4373-80af-09e87669db52
+Ã
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ–êl8àùæ¬ô1J$2e748095-f0ce-4bf6-8cef-df770487ac0b
+m	java:S106"+Replace this use of System.out by a logger.(…š¯‹8áùæ¬ô1J$c3812f40-56ee-445d-8d31-75a1834d3194
+Ã
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ–êl8áùæ¬ô1J$9b6b91b9-eab4-4051-876a-830ae72acdb1
+r	java:S106"+Replace this use of System.out by a logger.(ÁÂõÿÿÿÿÿ8âùæ¬ô1J$fe2ad925-8ea4-4dcc-95ac-5a2afdd01a06
+Ã
+java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ–êl8ãùæ¬ô1J$144a9fd0-4c36-4eb4-90d5-3d4e83598306
+m	java:S106)"+Replace this use of System.out by a logger.(ùİ¯ù8ãùæ¬ô1J$e73c1a4b-c948-4722-b038-c281387414e8
+m	java:S1060"+Replace this use of System.out by a logger.(Û¡Î8äùæ¬ô1J$14f03d52-0cfd-4b22-9291-a1e89ab97c23
+m	java:S1063"+Replace this use of System.out by a logger.(–ªÏ›8äùæ¬ô1J$2cc37dac-1ec2-46e0-99f2-f18d249d2c9b
+r	java:S1065"+Replace this use of System.out by a logger.(¬Ä‘şÿÿÿÿ8ŒÔô¬ô1J$5603047d-8fc1-42cc-986d-9d9370f5e2d2

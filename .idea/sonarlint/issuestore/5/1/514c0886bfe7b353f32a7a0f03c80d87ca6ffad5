@@ -1,0 +1,13 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(äÀ¥¸ùÿÿÿÿ8õ»Û­ô1J$617dfef1-bd00-4954-b368-c0deb63f9c4c
+m	java:S106"+Replace this use of System.out by a logger.(ÒŠÿÐ8ø»Û­ô1J$dde6d45d-af2b-4a13-b153-796d625db0c8
+i	java:S131""Add a default case to this switch.(­Ö¹§úÿÿÿÿ8÷»Û­ô1J$7aaffd7e-97ed-4193-a60d-bd3a726d8bc9
+Æ
+java:S1130("~Remove the declaration of thrown exception 'Exepcion.ExcepcionParametrosInvalidos', as it cannot be thrown from method's body.(€Ê­Øþÿÿÿÿ8ø»Û­ô1J$3f510cad-c3f3-4b1f-b943-6173b4a0abe7
+m	java:S106)"+Replace this use of System.out by a logger.(¯‰×ü8ú»Û­ô1J$762c8388-df4c-4ae3-a6d4-ad5ee7cd3967
+Æ
+java:S1130."~Remove the declaration of thrown exception 'Exepcion.ExcepcionParametrosInvalidos', as it cannot be thrown from method's body.(­ Ê÷ÿÿÿÿÿ8ù»Û­ô1J$cd163066-9df0-4c8e-a7c5-0c8a2544a575
+m	java:S106/"+Replace this use of System.out by a logger.(°¸ÖÔ8û»Û­ô1J$d8e3a03d-b363-4b0e-a973-602e9b1b7625
+Á
+java:S11304"~Remove the declaration of thrown exception 'Exepcion.ExcepcionParametrosInvalidos', as it cannot be thrown from method's body.(±ÄŸ×8ú»Û­ô1J$5ad3849f-f066-46e6-bb49-b5d73b4087da
+m	java:S1065"+Replace this use of System.out by a logger.(÷¹‰¿8ÍåÝ­ô1J$f6e84e57-6ba6-41ac-b052-a922131aed40
